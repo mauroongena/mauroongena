@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mauro Ongena</h1>
 <h3 align="center">A passionate backend developer from Belgium</h3>
 
-- 🌱 I’m currently learning **JavaScript, CMS, CSS,**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mauro.ongena@icloud.com**
 
