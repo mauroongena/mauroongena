@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██╗   ██╗██████╗  ██████╗
-████╗ ████║██╔══██╗██║   ██║██╔══██╗██╔═══██╗
-██╔████╔██║███████║██║   ██║██████╔╝██║   ██║
-██║╚██╔╝██║██╔══██║██║   ██║██╔══██╗██║   ██║
-██║ ╚═╝ ██║██║  ██║╚██████╔╝██║  ██║╚██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
+# Mauro Ongena
 
 **Full-Stack Developer · Currently exploring the third dimension**
 
@@ -75,5 +68,3 @@ I write clean, scalable code across the stack — from pixel-perfect frontends t
 I'm always open to interesting projects, collaborations, or just a good conversation about code.
 
 **📬 [mauro.ongena@icloud.com](mailto:mauro.ongena@icloud.com)**
-
----
