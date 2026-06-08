@@ -13,8 +13,6 @@
 
 [![Email](https://img.shields.io/badge/mauro.ongena@icloud.com-000000?style=flat-square&logo=apple&logoColor=white)](mailto:mauro.ongena@icloud.com)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=mauroongena&style=flat-square&color=6e40c9)
-
 </div>
 
 ---
@@ -79,7 +77,3 @@ I'm always open to interesting projects, collaborations, or just a good conversa
 **📬 [mauro.ongena@icloud.com](mailto:mauro.ongena@icloud.com)**
 
 ---
-
-<div align="center">
-  <sub>Crafted with precision · Fuelled by curiosity</sub>
-</div>
