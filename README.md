@@ -70,16 +70,6 @@ I write clean, scalable code across the stack — from pixel-perfect frontends t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauroongena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroongena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9)
-
-</div>
-
 ---
 
 ## 📡 Get In Touch
