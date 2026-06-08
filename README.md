@@ -13,7 +13,7 @@
 
 [![Email](https://img.shields.io/badge/mauro.ongena@icloud.com-000000?style=flat-square&logo=apple&logoColor=white)](mailto:mauro.ongena@icloud.com)
 &nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=mauro-ongena&style=flat-square&color=6e40c9)
+![Visitors](https://komarev.com/ghpvc/?username=mauroongena&style=flat-square&color=6e40c9)
 
 </div>
 
@@ -74,9 +74,9 @@ I write clean, scalable code across the stack — from pixel-perfect frontends t
 
 <div align="center">
 
-![Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauro-ongena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9)
+![Mauro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauroongena&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauro-ongena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroongena&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9)
 
 </div>
 
