@@ -10,7 +10,7 @@
 
 ---
 
-## 👾 About Me
+## About Me
 
 ```ts
 const mauro = {
@@ -21,11 +21,9 @@ const mauro = {
 };
 ```
 
-I write clean, scalable code across the stack — from pixel-perfect frontends to robust backend systems. Right now I'm diving deep into **Three.js** to bring interactive 3D experiences to the browser.
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -59,13 +57,3 @@ I write clean, scalable code across the stack — from pixel-perfect frontends t
 **Currently Learning**
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
----
-
----
-
-## 📡 Get In Touch
-
-I'm always open to interesting projects, collaborations, or just a good conversation about code.
-
-**📬 [mauro.ongena@icloud.com](mailto:mauro.ongena@icloud.com)**
